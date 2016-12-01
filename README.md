@@ -2,6 +2,8 @@
 
 Using this Vagrant file you can get 3CX Phone System Server up and running in a minute
 
+Step 0 - Download VirtualBox from https://www.virtualbox.org/wiki/Downloads
+
 Step 1 - Download vagrant tool from https://www.vagrantup.com/downloads.html
 
 Step 2 - Download ```Vagrantfile``` - config for VM, save it to new directory OR clone this repo
